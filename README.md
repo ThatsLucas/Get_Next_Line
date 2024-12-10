@@ -37,7 +37,6 @@ cc -Wall -Wextra -Werror get_next_line_bonus.c get_next_line_utils_bonus.c main.
 - `get_next_line_bonus.h`: Header file for the bonus implementation.
 - `get_next_line_utils.c`: Utility functions for the mandatory implementation.
 - `get_next_line_utils_bonus.c`: Utility functions for the bonus implementation.
-- `main.c`: Example usage of the `get_next_line` function.
 
 ## Author
 
